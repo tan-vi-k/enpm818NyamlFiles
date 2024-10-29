@@ -5,5 +5,5 @@ The order to deploy the cloud formation templates is as follows.
 1. VPC.yaml
 2. SG.yaml
 3. RDS.yaml
-4. autoscale.yaml
+4. autoscale.yaml collaborated Aditi, Rishab, Solomon, Tanvi
    
